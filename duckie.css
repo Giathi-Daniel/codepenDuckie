@@ -393,7 +393,7 @@ a:hover {
   margin-inline-start: -5px;
   transition: 0.1s;
   z-index: 100;
-  display: none; /* uncomment this bit to see marker */
+  display: none;  /* uncomment this bit to see marker */
 }
 
 .red {
